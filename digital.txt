@@ -1,2 +1,3 @@
 Agregando contenido
 Agregando mas contenido
+Analizando conflictos en un mismo archivo
